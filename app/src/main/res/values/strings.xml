@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">mph</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
